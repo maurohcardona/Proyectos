@@ -6,8 +6,12 @@ homeRoutes.get("/", (req, res) => {
     res.send("index")
 })
 
-homeRoutes.get("/index", (req, res) => {
-    res.send("indexxxx")
+homeRoutes.get("/indexxxx", (req, res) => {
+    res.send("index")
+})
+
+homeRoutes.get("/indexx", (req, res) => {
+    res.send("index")
 })
 
 export default homeRoutes;
