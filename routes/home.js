@@ -10,7 +10,7 @@ homeRoutes.get("/indexxxx", (req, res) => {
     res.send("index")
 })
 
-homeRoutes.get("/indexx", (req, res) => {
+homeRoutes.get("/indexxxxxx", (req, res) => {
     res.send("index")
 })
 
